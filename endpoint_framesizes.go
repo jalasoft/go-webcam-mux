@@ -2,6 +2,7 @@ package wmux
 
 import (
 	"encoding/json"
+	"log"
 	"net/http"
 
 	"github.com/jalasoft/go-webcam"
@@ -37,6 +38,7 @@ type pixformatFramesizesResource struct {
 //-------------------------------------------------------------------------------
 
 func webcamFramesizes(webcam webcam.Webcam, w http.ResponseWriter, req *http.Request) {
+	log.Println("JSEM TU")
 
 	pixFormats, err := webcam.QueryFormats()
 
