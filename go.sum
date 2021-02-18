@@ -1,0 +1,8 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/jalasoft/go-webcam v1.0.1 h1:t11nth6ebq+VfYn9BeSILcCtR7z33riGh0eISFy2mOg=
+github.com/jalasoft/go-webcam v1.0.1/go.mod h1:ZnPyY+BbsQIaHrmbbRO8OESt0/bceSOt3lP6LSdHcWU=
+github.com/jalasoft/go-webcam v1.0.2 h1:LXwyf1+f8+nr2tRw4ZmApyySHHFktwULO6mJvxYAWlc=
+github.com/jalasoft/go-webcam v1.0.2/go.mod h1:ZnPyY+BbsQIaHrmbbRO8OESt0/bceSOt3lP6LSdHcWU=
+github.com/jalasoft/go-webcam v1.0.3 h1:rX77dlx2O4VhH2HwGuCpv8PIJTSosVZszzgSVrG8pX4=
+github.com/jalasoft/go-webcam v1.0.3/go.mod h1:ZnPyY+BbsQIaHrmbbRO8OESt0/bceSOt3lP6LSdHcWU=
