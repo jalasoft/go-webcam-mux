@@ -6,3 +6,5 @@ github.com/jalasoft/go-webcam v1.0.2 h1:LXwyf1+f8+nr2tRw4ZmApyySHHFktwULO6mJvxYA
 github.com/jalasoft/go-webcam v1.0.2/go.mod h1:ZnPyY+BbsQIaHrmbbRO8OESt0/bceSOt3lP6LSdHcWU=
 github.com/jalasoft/go-webcam v1.0.3 h1:rX77dlx2O4VhH2HwGuCpv8PIJTSosVZszzgSVrG8pX4=
 github.com/jalasoft/go-webcam v1.0.3/go.mod h1:ZnPyY+BbsQIaHrmbbRO8OESt0/bceSOt3lP6LSdHcWU=
+github.com/jalasoft/go-webcam v1.0.4 h1:ADFyr7zWfHitl7QctenM9SKbS2cUya4AU3mU/u1rGLA=
+github.com/jalasoft/go-webcam v1.0.4/go.mod h1:ZnPyY+BbsQIaHrmbbRO8OESt0/bceSOt3lP6LSdHcWU=

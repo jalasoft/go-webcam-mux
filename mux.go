@@ -24,6 +24,7 @@ func init() {
 	devRouter.Handle("/cap", webcamHandlerAdapter{webcamCapability})
 	devRouter.Handle("/frm", webcamHandlerAdapter{webcamFramesizes})
 	devRouter.Handle("/snap", webcamHandlerAdapter{webcamSnapshot})
+	devRouter.Handle("/stream", webcamHandlerAdapter{webcamSnapshotStream})
 }
 
 // WebcamMux a multiplexer that implements http.Handler interface
